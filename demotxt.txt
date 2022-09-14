@@ -1,7 +1,3 @@
 namaste
-india
-<<<<<<< HEAD
-new
-=======
-eeed
->>>>>>> master
+indiadq
+cjhbcbbcbccbgti
