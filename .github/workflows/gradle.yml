@@ -30,4 +30,4 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: ${{ matrix.java }}
-      - run: java HelloWorld.java
+      - run: javac
