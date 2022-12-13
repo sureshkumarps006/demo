@@ -1,10 +1,9 @@
-import org.joda.time.LocalTime;	               
         
 public class HelloWorld {	        
         
   public static void main(String[] args) {	        
         
-    LocalTime currentTime = newLocalTime();	        
+    String currentTime="3:37";	        
         
     System.out.println("The current local time is: " + currentTime);	        
         
