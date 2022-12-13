@@ -9,10 +9,9 @@ public class HelloWorld {
     System.out.println("The current local time is: " + currentTime);	        
         
     	        
+              
         
-    Greeter greeter = newGreeter();	        
-        
-    System.out.println(greeter.sayHello());	        
+    System.out.println("Hello");	        
         
   }	        
         
