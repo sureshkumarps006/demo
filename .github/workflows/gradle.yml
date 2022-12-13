@@ -30,4 +30,6 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: ${{ matrix.java }}
-      - run: javac
+      #- run: javac
+      - name: Build project with Maven
+      - run: mvn -B package --file pom.xml
